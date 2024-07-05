@@ -1,0 +1,4 @@
+003;Hosszú Katinka;2001.12.01;Magyarország;02:05:10
+002;Kiss Ernő;2000.02.21;Szlovákia;04:01:10
+006;Nagy László;1989.11.21;Románia;01:04:21
+004;Fekete Ádám;1999.12.04;Magyarország;03:01:23
